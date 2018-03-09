@@ -1,6 +1,5 @@
 # File Parser
 
-
 ## Set Up
 
 1. In project path, `bundle install`  to install Ruby dependencies
@@ -23,5 +22,15 @@ bundle exec rake import
 ```
 
 
-## User Interface Philosophies
+## UI Decisions
+
+1. When there is bad data, I
+
+## QA
+
+Test for UTF-8 characters
+
+## TO DO
+
+2. Add Further Validations Against bad data
 
